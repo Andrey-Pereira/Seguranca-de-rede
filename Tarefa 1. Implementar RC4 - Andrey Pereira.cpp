@@ -2,9 +2,6 @@
     Segurança de Rede
     Tarefa 1. Implementar RC4
 
-    Acadêmico Andrey Avila da Silva Pereira - 201812457
-    Engenharia de Telecomunicações
-
  Tarefa realizada no software Code::Blocks, cuja linguagem de progração implementada foi C++
 
  RC4 gera um fluxo pseudo-aleatório de bits (um fluxo de chaves ).
